@@ -1,3 +1,3 @@
 # hello-github
 チュートリアル
-GitHubのチュートリアル
+GitHubのチュートリアル!
